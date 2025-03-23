@@ -1,0 +1,17 @@
+{
+  "name": "adaptivecard-toolbox",
+  "description": "A collection of tools for working with Adaptive Cards in Typescript.",
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjarosch/adaptivecard-toolbox.git"
+  },
+  "author": "Mike Jarosch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjarosch/adaptivecard-toolbox/issues"
+  },
+  "homepage": "https://github.com/mjarosch/adaptivecard-toolbox#readme"
+}
